@@ -21,7 +21,7 @@ O layout é **responsivo**, funcionando bem em **desktop e dispositivos móveis*
 
 - **React**  
 - HTML, CSS e JavaScript  
-- Conceitos de state management e manipulação de eventos no React
+- Conceitos de state management e manipulação de eventos no React 
 
 ---
 
