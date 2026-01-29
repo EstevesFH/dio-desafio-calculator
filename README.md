@@ -1,31 +1,40 @@
-````markdown
-# Calculadora – Desafio DIO
+Perfeito! 😄 Vamos deixar o README **profissional e chamativo**, estilo GitHub, com **emojis, badges e uma seção de preview visual**. Aqui está um exemplo completo em Markdown que você pode colocar direto no seu projeto:
 
-## Descrição 
+````markdown
+# 🖩 Calculadora – Desafio DIO
+
+![GitHub repo size](https://img.shields.io/github/repo-size/EstevesFH/dio-desafio-calculator)
+![GitHub language count](https://img.shields.io/github/languages/count/EstevesFH/dio-desafio-calculator)
+![React](https://img.shields.io/badge/React-17.0.2-blue)
+![License](https://img.shields.io/github/license/EstevesFH/dio-desafio-calculator)
+
+---
+
+## 📖 Descrição
 
 Este projeto é uma **calculadora web** desenvolvida como parte de um desafio da DIO.  
 Ela permite realizar operações matemáticas básicas e avançadas, com foco em **usabilidade e responsividade**.
 
-- As operações básicas (+, -) foram desenvolvidas com acompanhamento do desafio.  
-- As demais funcionalidades foram implementadas de forma **autônoma**, incluindo:
-  - Multiplicação e divisão  
-  - Porcentagem  
+- Operações básicas (+, -) desenvolvidas com acompanhamento do desafio.  
+- Funcionalidades adicionais implementadas de forma **autônoma**:
+  - Multiplicação (×) e Divisão (÷)  
+  - Porcentagem (%)  
   - Continuação de cálculos usando o resultado anterior  
   - Limpar/apagar valores  
 
-O layout é **responsivo**, funcionando bem em **desktop e dispositivos móveis**.
+💻 Layout responsivo, funcionando bem em **desktop e dispositivos móveis**.
 
 ---
 
-## Tecnologias utilizadas 
+## ⚙️ Tecnologias utilizadas
 
 - **React**  
 - HTML, CSS e JavaScript  
-- Conceitos de state management e manipulação de eventos no React 
+- Conceitos de **state management** e **event handling** no React
 
 ---
 
-## Funcionalidades
+## 🛠️ Funcionalidades
 
 - Adição (+), subtração (-), multiplicação (×) e divisão (÷)  
 - Porcentagem (%)  
@@ -35,7 +44,7 @@ O layout é **responsivo**, funcionando bem em **desktop e dispositivos móveis*
 
 ---
 
-## Como executar o projeto
+## 🚀 Como executar o projeto
 
 1. Clone o repositório:  
 ```bash
@@ -64,20 +73,34 @@ npm start
 
 ---
 
-## Demonstração
+## 📸 Preview
 
-*(Aqui você pode adicionar uma imagem ou GIF do projeto funcionando)*
+| Desktop                           | Mobile                          |
+| --------------------------------- | ------------------------------- |
+| ![Desktop](./preview/desktop.png) | ![Mobile](./preview/mobile.png) |
+
+> *Obs: Substitua as imagens `desktop.png` e `mobile.png` pelo print ou GIF do seu projeto.*
 
 ---
 
-## Autor
+## 🧑‍💻 Autor
 
 * **EstevesFH** – Desenvolvedor do projeto
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ```
 
 ---
 
-Se você quiser, posso fazer **uma versão mais “GitHub style”** com emojis, badges (npm version, license, React), e uma seção de **preview visual**, que deixa o README muito mais chamativo para quem visitar o repo.  
+### 🔹 Observações
+1. Para as **imagens de preview**, crie uma pasta chamada `preview` e coloque os prints do seu projeto.  
+2. Os **badges** são dinâmicos e puxam info do GitHub.  
+3. Os emojis deixam o README mais visual e fácil de ler.  
 
+::contentReference[oaicite:0]{index=0}
 ```
