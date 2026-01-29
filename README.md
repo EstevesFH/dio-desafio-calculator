@@ -17,7 +17,7 @@ O layout é **responsivo**, funcionando bem em **desktop e dispositivos móveis*
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 
 
 - **React**  
 - HTML, CSS e JavaScript  
