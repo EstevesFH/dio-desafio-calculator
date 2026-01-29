@@ -1,6 +1,3 @@
-Perfeito! 😄 Vamos deixar o README **profissional e chamativo**, estilo GitHub, com **emojis, badges e uma seção de preview visual**. Aqui está um exemplo completo em Markdown que você pode colocar direto no seu projeto:
-
-````markdown
 # 🖩 Calculadora – Desafio DIO
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/EstevesFH/dio-desafio-calculator)
@@ -73,16 +70,6 @@ npm start
 
 ---
 
-## 📸 Preview
-
-| Desktop                           | Mobile                          |
-| --------------------------------- | ------------------------------- |
-| ![Desktop](./preview/desktop.png) | ![Mobile](./preview/mobile.png) |
-
-> *Obs: Substitua as imagens `desktop.png` e `mobile.png` pelo print ou GIF do seu projeto.*
-
----
-
 ## 🧑‍💻 Autor
 
 * **EstevesFH** – Desenvolvedor do projeto
@@ -92,15 +79,3 @@ npm start
 ## 📜 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
-```
-
----
-
-### 🔹 Observações
-1. Para as **imagens de preview**, crie uma pasta chamada `preview` e coloque os prints do seu projeto.  
-2. Os **badges** são dinâmicos e puxam info do GitHub.  
-3. Os emojis deixam o README mais visual e fácil de ler.  
-
-::contentReference[oaicite:0]{index=0}
-```
