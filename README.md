@@ -1,7 +1,7 @@
 ````markdown
 # Calculadora – Desafio DIO
 
-## Descrição
+## Descrição 
 
 Este projeto é uma **calculadora web** desenvolvida como parte de um desafio da DIO.  
 Ela permite realizar operações matemáticas básicas e avançadas, com foco em **usabilidade e responsividade**.
