@@ -1,74 +1,83 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+````markdown
+# Calculadora – Desafio DIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descrição
 
-## Available Scripts
+Este projeto é uma **calculadora web** desenvolvida como parte de um desafio da DIO.  
+Ela permite realizar operações matemáticas básicas e avançadas, com foco em **usabilidade e responsividade**.
 
-In the project directory, you can run:
+- As operações básicas (+, -) foram desenvolvidas com acompanhamento do desafio.  
+- As demais funcionalidades foram implementadas de forma **autônoma**, incluindo:
+  - Multiplicação e divisão  
+  - Porcentagem  
+  - Continuação de cálculos usando o resultado anterior  
+  - Limpar/apagar valores  
 
-### `npm start`
+O layout é **responsivo**, funcionando bem em **desktop e dispositivos móveis**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tecnologias utilizadas
 
-### `npm test`
+- **React**  
+- HTML, CSS e JavaScript  
+- Conceitos de state management e manipulação de eventos no React
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Funcionalidades
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Adição (+), subtração (-), multiplicação (×) e divisão (÷)  
+- Porcentagem (%)  
+- Continuação de cálculos sem reiniciar a operação  
+- Botão de limpar/apagar  
+- Layout responsivo para web e mobile
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Como executar o projeto
 
-### `npm run eject`
+1. Clone o repositório:  
+```bash
+git clone https://github.com/EstevesFH/dio-desafio-calculator.git
+````
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Entre na pasta do projeto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+cd dio-desafio-calculator
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Instale as dependências:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+npm install
+```
 
-## Learn More
+4. Inicie a aplicação:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+5. Abra [http://localhost:3000](http://localhost:3000) no navegador para usar a calculadora.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Demonstração
 
-### Analyzing the Bundle Size
+*(Aqui você pode adicionar uma imagem ou GIF do projeto funcionando)*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* **EstevesFH** – Desenvolvedor do projeto
 
-### Advanced Configuration
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+Se você quiser, posso fazer **uma versão mais “GitHub style”** com emojis, badges (npm version, license, React), e uma seção de **preview visual**, que deixa o README muito mais chamativo para quem visitar o repo.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# dio-desafio-calculator
->>>>>>> 9aa8fd8f05cc42469f7947e0fcd43b5349e801e8
+```
